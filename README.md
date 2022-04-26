@@ -3,5 +3,7 @@ Competition to classify individual whales from images hosted on Kaggle. After so
 
 Datasets can be found here: 
 https://www.kaggle.com/competitions/happy-whale-and-dolphin/data
+
 https://www.kaggle.com/datasets/andrewgustyjrstudent/happywhalesortedbyindividual
+
 https://www.kaggle.com/datasets/phalanx/whale2-cropped-dataset
